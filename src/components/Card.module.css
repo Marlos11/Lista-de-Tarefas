@@ -1,0 +1,47 @@
+.Card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+
+    background: var(--gray-100);
+
+    border-radius: 20px;
+
+    margin-top: 1rem;
+
+
+}
+
+.Card label {
+     display: flex;
+     align-items: center;
+     width: 100%;
+     cursor: pointer; 
+
+     transition: all 0.3s ease-in-out;
+} 
+
+.Card:hover{
+    transform: scale(1.09);
+}
+
+.Card label:hover{
+    color:var(--blue-600)
+}
+
+.Card button{
+    transition: color 0.2s;
+    font-size: 2.4rem;
+    padding: 8px;
+}
+
+.Card button:hover{
+    color: var(--red-600);
+} 
+
+.checked{
+    text-decoration:line-through;
+    opacity:0.35
+}
