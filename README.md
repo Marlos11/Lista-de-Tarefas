@@ -57,6 +57,6 @@ Se você deseja contribuir para este projeto, fique à vontade para abrir issues
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 <h5>Contato</h5>
-Se você tiver alguma dúvida ou precisar entrar em contato, você pode fazê-lo por meio do meu e-mail: seuemail@email.com.
+Se você tiver alguma dúvida ou precisar entrar em contato, você pode fazê-lo por meio do meu e-mail: marlos-gama@hotmail.com
 <h5>Status do Projeto</h5>
 Este projeto está atualmente em desenvolvimento ativo e está em constante aprimoramento.
